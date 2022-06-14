@@ -8,9 +8,10 @@ Original file is located at
 """
 
 def The_function(str):
+# str is the text
   myList1 = ['shared', 'email']
   mylist2 = ['share', 'email']
-
+# The code below is evaluating the text
   if all(x in str for x in myList1):
     return 'Student has shared'
   elif all(x in str for x in mylist2 ):
