@@ -14,3 +14,4 @@ The result will be as follow:
 
 the 'OK' which means that the funtion has passed the test
 
+For any one to run the funtion locally must used python programming language compiler to his/her local machine, and download/copy a function filr to my github repo files
