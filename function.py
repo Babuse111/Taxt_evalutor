@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1D9huydBVUnhP-fXniRa6wiZYxz_w_rtm
 """
 
-def test_function(str):
+def The_function(str):
   myList1 = ['shared', 'email']
   mylist2 = ['share', 'email']
 
